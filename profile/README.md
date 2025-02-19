@@ -1,12 +1,19 @@
-![SourceDEFUN BG Text](https://github.com/user-attachments/assets/6eeff827-92bd-49f3-8b86-f022b1db78a4)
-# Welcome to SourceDEFUN's main GitHub page!
-Here you'll be able to find the source code of the SourceDEFUN itself and the tools we use!
+# SourceDEFUN
+Source SDK 2013's Mod aiming to modernize the engine parts.
+## Why mod?
+*This was written from my memory and it is likely that something might not be correct.*
 
-## Update on 25th of August
-SourceDEFUN will be revived and under a new name: `DEFUN: REVIVED`. The Source code is compileable on Linux, but not done yet.
-
-## So... What happened?
-I've lost all the motivation to keep this project going. Expect no further support from me (Sectonidse). If there would be no changes or pull requests after a year will pass (starting from august 7th), SourceDEFUN will be archived.
-
-## Why did you abandon Alien Swarm SDK?
-Because it doesn't support Linux. It is always nice to have compatibility with not only Windows, but also Linux.
+You see, Source Engine was previously GoldSRC, which was previously a work-in-progress version of Quake 2 Engine.
+Valve purchased the license for WIP Quake 2 Engine, which did not allow them to open-source the codebase.
+When developing Source Engine, Valve Software heavily modified the codebase, splitting the game and engine into separate folders.
+After Half-Life 2, Valve Software released Source SDK 2004, open-sourcing the code that wasn't from the licensed Quake 2 Engine.
+But before that, id Software open-sourced Quake/Quake 2 engines with GPL2 license, but its previous licensees had to contact them to get that GPL2 license on their codebase.
+It is 19th of February, 2025 and Valve Software still did not do anything to make their sources be available for open-sourcing.
+The main reason for that is because Source 2 was Source Engine, which was previously GoldSRC, which was previously a work-in-progress version of Quake 2 Engine.
+If they ask for GPL2 license, it is likely they have to open-source everything they based off from that WIP Quake 2 Engine they'd got, **including Source 2!**
+They wouldn't like to open-source Source 2, because:
+* They can get some money from licensing it to others
+* It is still in development, which i bet is already not a long time ago.
+### But there's leaks of engine code, right?
+Well yes, but i'm not used to maintaining huge codebases. Maybe when i'll be an expert at Source SDK, then i'll try it.
+But you have to remember, that leaks are a gray area, and i'm honestly don't want to go there, even though i did before.
