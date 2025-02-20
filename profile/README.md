@@ -1,5 +1,13 @@
-# SourceDEFUN
+![defun2bg](https://github.com/user-attachments/assets/62589725-be1d-411b-b0a7-cae59b210e92)
 Source SDK 2013's Mod aiming to modernize the engine parts.
+
+```
+▄▄▄▄▄▄▄▄▄ 
+█ defun █░ a LISP programming language word for functions.
+█▄▄▄▄▄▄▄█░ The name is inspired from one of the Portal 2's music.
+ ░░░░░░░░░
+```
+
 ## Why mod?
 *This was written from my memory and it is likely that something might not be correct.*
 
