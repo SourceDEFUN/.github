@@ -1,5 +1,7 @@
 ![defun2bg](https://github.com/user-attachments/assets/62589725-be1d-411b-b0a7-cae59b210e92)
 Modernizing Source Engine, while using leaked source code but using it with good faith and not keeping it closed-source.
+
+[SourceDEFUN is indefinitely put on pause.](https://github.com/orgs/SourceDEFUN/projects/2?pane=info&statusUpdateId=176937)
 ```
 █▀▀▀▀▀▀▀█
 █ defun █░░ a LISP programming language word for functions.
@@ -22,16 +24,16 @@ When developing Source Engine, Valve Software heavily modified the codebase, mak
 
 After Half-Life 2, Valve Software released Source SDK 2004, open-sourcing the code that wasn't from the licensed Quake 2 Engine.
 
-But before Half-Life 2, id Software open-sourced Quake/Quake 2 engines with GPLv2 license, and its proprietary licensees had to contact them to get that GPLv2 license for their codebase.
+But before Half-Life 2, id Software open-sourced Quake/Quake 2 engines with GPLv2 license, and its proprietary license holders had to contact them to get that GPLv2 license for their codebase.
 
-It is 7th of August, 2025 and Valve Software still did not do anything to make their sources be available for open-sourcing. And it does not look like we're getting close to it. **All SDKs and no engines makes Jack a dull boy.**
+It is 14th of April, 2026 and Valve Software still did not do anything to make their sources be available for open-sourcing. And it does not look like we're getting close to it. **All SDKs and no engines makes Jack a dull boy.**
 
 Here's the steps Valve Software has to do to make is possible:
 
 0. Pick an engine branch to open-source. (i'll recommend Source 2013)
 1. Replace proprietary stuff with open-source alternatives
 2. Ask id Software for GPLv2 relicense
-3. Open-source Hammer and other utilities that might have came from Quake 2's codebase
+3. Open-source Hammer (which is not from Quake 2's codebase)
 4. Release the Source Engine Source!
 
 ----------------------
