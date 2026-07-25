@@ -1,14 +1,16 @@
-![defun2bg](https://github.com/user-attachments/assets/62589725-be1d-411b-b0a7-cae59b210e92)
-Modernizing Source Engine, while using leaked source code but using it with good faith and not keeping it closed-source.
+<img width="100%" alt="NewDEFUN" src="https://github.com/user-attachments/assets/b344ec96-43c2-45e0-be90-0e1188cfdd19" />
 
-[SourceDEFUN is indefinitely put on pause.](https://github.com/orgs/SourceDEFUN/projects/2?pane=info&statusUpdateId=176937)
-```
-█▀▀▀▀▀▀▀█
-█ defun █░░ a LISP programming language word for functions.
-█▄▄▄▄▄▄▄█░░ The name is inspired by Portal 2's music "(defun botsbuildbots () (botsbuildbots)".
-  ░░░░░░░░░
-```
+𝚍𝚎𝚏𝚞𝚗 — a LISP programming language word for functions. The name is inspired by Portal 2's music "(defun botsbuildbots () (botsbuildbots)".
 
+SourceDEFUN is a project to push Source SDK capabilities as far as possible.
+
+## History
+Initially, SourceDEFUN appeared (as a Source SDK mod) because there weren't any open-source projects that made Source Engine look modern. Then it moved from a mod into using leaked engine source code, because Source Engine wasn't (and still isn't) open-sourced, while Valve Software stopped providing licenses to their engines anymore (there's a fair reason though) and they moved to Source 2.
+
+-------------------
+<details>
+  <summary>Old ReadME</summary>
+  
 ## Note to Valve Software
 Hello.
 I suppose you're not happy with me using leaked Source Engine. If that's the case, then i'm sorry, but it had to be done. Before DMCAing this project, i'd like to see you open-source the entirety of Source Engine: just replace proprietary software/libraries with open-source or just remove 'em so that community can reimplement them back, then ask id Software for GPLv2 license. After all, you're now working on Source 2, so why not make the modders happy? It's been 12 years since Source SDK 2013 🥺
@@ -35,6 +37,11 @@ Here's the steps Valve Software has to do to make is possible:
 2. Ask id Software for GPLv2 relicense
 3. Open-source Hammer (which is not from Quake 2's codebase)
 4. Release the Source Engine Source!
+
+</details>
+-------------------
+
+It is 26th of July, 2026 and Valve Software still did not do anything to make their sources be available for open-sourcing. And it does not look like we're getting close to it. **All SDKs and no engines makes Jack a dull boy.**
 
 ----------------------
 *Half-Life, the Half-Life logo, the Lambda logo and Source are trademarks and/or registered trademarks of Valve Software. All other trademarks are property of their respective owners.
